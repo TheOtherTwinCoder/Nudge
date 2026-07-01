@@ -58,7 +58,7 @@ Slide Switch
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6c2b851d-a9b2-4325-9e3c-29980ff1fcc9" />
 
 
-### Total Hours Spent:6.5
+### Total Hours Spent: 6.5
 
 ## June 29th, 2026
 
@@ -80,7 +80,7 @@ It looks really bad rn, so I'l fix it up! I promise!
 
 Fixing up the horrible mess...
 
-Alright. That PCB looked like a wirey mess, and so, I fixed it up. Never AGAIN!!
+Alright. That schematic looked like a wirey mess, and so, I fixed it up. Never AGAIN!!
 
 The MAX98357A that I thought was Adafruit's wasn't actually theirs, resulting in a rewire of the whole schematic. I also added in the Slide Switch (how did I forget?)
 
@@ -97,7 +97,7 @@ Actual Adafruit MAX Amp:
 
 <img width="732" height="506" alt="Screenshot 2026-07-01 at 12 42 54 PM" src="https://github.com/user-attachments/assets/64dc283f-3e99-4929-b962-bc122a23c3e2" />
 
-Whole PCB:
+Whole Schematic:
 
 <img width="780" height="501" alt="Screenshot 2026-07-01 at 12 44 39 PM" src="https://github.com/user-attachments/assets/4fe7d371-fa9e-4616-9876-660d4674e59c" />
 
