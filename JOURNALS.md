@@ -36,6 +36,7 @@ I've finalized the parts for Nudge, my revolutionary AI Pin! After a few hours o
 - Adafruit MAX98357A Breakout (Amplifier)
 - Slide Switch (easy to get)
 - 450 mAH (maybe more)
+- Maybe a voltage booster? IDK yet...
 - PCB (ovbiously)
 
 Images:
@@ -55,5 +56,73 @@ Adafruit MAX98357A Breakout (Amplifier)
 Slide Switch
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6c2b851d-a9b2-4325-9e3c-29980ff1fcc9" />
+
+
+### Total Hours Spent:6.5
+
+## June 29th, 2026
+
+Starting the schematic!
+
+Hey everyone! I just made the schematic for the PCB, using all the parts I had in the above BOM, along with some more research on how to attach them.
+
+I'm getting better at PCBs, especially after designing a WiFi devboard for Macondo, so I'm getting faster at it, too!
+
+Here's an image:
+
+<img width="910" height="621" alt="Screenshot 2026-07-01 at 12 39 11 PM" src="https://github.com/user-attachments/assets/c507e355-bf4f-46b8-97e1-23a0bd43667b" />
+
+It looks really bad rn, so I'l fix it up! I promise!
+
+### Total Hours Spent: 3.5
+
+## June 30th, 2026
+
+Fixing up the horrible mess...
+
+Alright. That PCB looked like a wirey mess, and so, I fixed it up. Never AGAIN!!
+
+The MAX98357A that I thought was Adafruit's wasn't actually theirs, resulting in a rewire of the whole schematic. I also added in the Slide Switch (how did I forget?)
+
+I added Global Labels, lke I'm supposed to, and I made everything overall tidier! I also did some more research and fixed up most parts of the PCB, so here's some images!
+The XIAO Sense:
+
+<img width="520" height="507" alt="Screenshot 2026-07-01 at 12 43 26 PM" src="https://github.com/user-attachments/assets/aa9b9f9c-c8e0-403f-b23a-92d5b1e7f103" />
+
+Slide Switch:
+
+<img width="409" height="164" alt="Screenshot 2026-07-01 at 12 43 44 PM" src="https://github.com/user-attachments/assets/efbde176-23c1-43b7-8ebb-612403b444c8" />
+
+Actual Adafruit MAX Amp:
+
+<img width="732" height="506" alt="Screenshot 2026-07-01 at 12 42 54 PM" src="https://github.com/user-attachments/assets/64dc283f-3e99-4929-b962-bc122a23c3e2" />
+
+Whole PCB:
+
+<img width="780" height="501" alt="Screenshot 2026-07-01 at 12 44 39 PM" src="https://github.com/user-attachments/assets/4fe7d371-fa9e-4616-9876-660d4674e59c" />
+
+### Total Hours Spent: 5
+
+## July 1st, 2026
+
+Happy July! 
+
+I've finished the PCB today, with a LOT of changing spots and moving components! I rerouted a few times, too!
+
+Check out my progess through this image montage! 
+
+Revision 1:
+<img width="498" height="539" alt="Screenshot 2026-07-01 at 12 47 24 PM" src="https://github.com/user-attachments/assets/463235be-a1d9-435f-85f7-ee5b4d42434e" />
+
+Revision 2: (Unrouted)
+<img width="496" height="654" alt="Screenshot 2026-07-01 at 12 48 11 PM" src="https://github.com/user-attachments/assets/78528ed4-9b29-4a94-9bf9-9e7680f069ea" />
+
+Revision 3: (Routed + Silkscreen)
+<img width="393" height="524" alt="Screenshot 2026-07-01 at 12 48 46 PM" src="https://github.com/user-attachments/assets/69d248ab-1889-49ef-b9c3-622235563b35" />
+
+Wow, a TON of progress today!
+
+### Total Hours Spent: 6 (wowowow, new best?)
+
 
 
