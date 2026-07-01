@@ -36,3 +36,7 @@ Actual Adafruit MAX Amp:
 Whole Schematic:
 
 <img width="780" height="501" alt="Screenshot 2026-07-01 at 12 44 39 PM" src="https://github.com/user-attachments/assets/4fe7d371-fa9e-4616-9876-660d4674e59c" />
+
+PCB Revision 3: (Routed + Silkscreen)
+
+<img width="393" height="524" alt="Screenshot 2026-07-01 at 12 48 46 PM" src="https://github.com/user-attachments/assets/69d248ab-1889-49ef-b9c3-622235563b35" />
