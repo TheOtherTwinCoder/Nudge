@@ -11,10 +11,11 @@ For this reason, I'm setting out to create the better version that doesn't need 
 
 IDEAS for Nudge:
 
-"Hey Nudge" for wake up
-Ability to take pictures and process them with AI
-Ask questions to Nudge, with relatively quick responses
-On device processing (no WiFi!)
+- "Hey Nudge" for wake up
+- Ability to take pictures and process them with AI
+- Ask questions to Nudge, with relatively quick responses
+- On device processing (no WiFi!)
+
 Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'll do that when I get back from vacation (July 4th).
 
 Images:
