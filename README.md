@@ -1,3 +1,4 @@
+## Nudge, a better AI Pin
 Hey everyone! For Outpost, I'm creating an AI Pin, but not like Humane's failed attempt...
 
 AI's creating a revolution throughout the world, and in early 2025, I (along with many others) saw the Humane AI Pin for the first time! It was revolutionary, but four harsh parts of the device stood out:
