@@ -22,13 +22,13 @@ Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'l
 BOM:
 | Designator | Footprint | Quantity | Value | LCSC Part # | Price | Total |
 |---|---|---|---|---|---|---|
-| BT1 | TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm | 1 | Battery_Cell | C5188434 | (in JLCPCB) | |
-| LS2 | TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm | 1 | Speaker | C5188434 | (in JLCPCB) | |
-| SW1 | SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm | 1 | SW_Wuerth_450301014042 | C2985934 | (in JLCPCB) | |
+| BT1 | TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm | 1 | Battery_Cell | C5188434 | $1.09 (both) | |
+| LS2 | TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm | 1 | Speaker | C5188434 | (included above) | |
+| SW1 | SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm | 1 | SW_Wuerth_450301014042 | C2985934 | $1.49 | |
 | U1 | XIAO-ESP32-S3-SMD | 1 | XIAO-ESP32-S3-SMD | - | $23.99 | |
 | U3 | adafruit-MAX98357 | 1 | adafruit-MAX98357 | - | $7.59 | |
-| - | JLCPCB | 1 | JLCPCB | - | $57.80 | |
-| - | - | - | - | - | - | **$89.38** |
+| - | JLCPCB | 1 | JLCPCB | - | $44.96 | |
+| - | - | - | - | - | - | **$79.12** |
 
 
 Images:
