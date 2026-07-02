@@ -19,6 +19,8 @@ IDEAS for Nudge:
 
 Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'll do that when I get back from vacation (July 4th).
 
+Check out the BOM [here](https://github.com/TheOtherTwinCoder/Nudge/blob/main/production/bom.csv)
+
 Images:
 
 The XIAO Sense:
