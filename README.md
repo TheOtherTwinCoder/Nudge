@@ -27,6 +27,7 @@ BOM:
 | U3 | adafruit-MAX98357 | 2 | adafruit-MAX98357 | - | $7.59 | |
 | - | JLCPCB | 1 | JLCPCB | - | $44.96 | |
 | - | Shipping + Tariffs | - | - | - | $8.49 | |
+| - | Speaker | 1 | - | - | $7.99 | |
 | - | - | - | - | - | - | **$98.86** |
 
 
