@@ -22,9 +22,9 @@ Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'l
 BOM:
 | Designator | Footprint | Quantity | Value | LCSC Part # | Price | Total |
 |---|---|---|---|---|---|---|
-| SW1 | SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm | 1 | SW_Wuerth_450301014042 | C2985934 | $4.50 | |
-| U1 | XIAO-ESP32-S3-SMD | 1 | XIAO-ESP32-S3-SMD | - | $27.98 | |
-| U3 | adafruit-MAX98357 | 1 | adafruit-MAX98357 | - | $7.59 | |
+| SW1 | SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm | 2 | SW_Wuerth_450301014042 | C2985934 | $4.50 | |
+| U1 | XIAO-ESP32-S3-SMD | 2 | XIAO-ESP32-S3-SMD | - | $27.98 | |
+| U3 | adafruit-MAX98357 | 2 | adafruit-MAX98357 | - | $7.59 | |
 | - | JLCPCB | 1 | JLCPCB | - | $44.96 | |
 | - | Shipping + Tariffs | - | - | - | $8.49 | |
 | - | - | - | - | - | - | **$98.86** |
